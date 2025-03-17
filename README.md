@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 # 🔭 About Me:
-A OpenSource Lover & Specialist Software Engineer from Brazil
+A OpenSource Lover, Staff Software Engineer & Aspiring investor from Brazil.
+
+- Kernel Patch's: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=filipe+xavier
+- K8s Commits: https://github.com/kubernetes/kubernetes/commits/master/?author=felipeagger
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-agger) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@filipxavier) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/felipeagger) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/felipeagger) 
